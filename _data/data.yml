@@ -12,10 +12,10 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: p18kavv@ionio.gr / kakonstantina2000@gmail.com 
+    email: p18kavv@ionio.gr
     phone: 6911111111
     github: p18kavv
-    email: kakonstantina2000@gmail.com 
+    email1: kakonstantina2000@gmail.com 
     
 
     languages:
