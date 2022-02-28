@@ -13,29 +13,29 @@ sidebar:
 
     # Sidebar links
     email: p18kavv@ionio.gr
-    email: kakonstantina2000@gmail.com
+    email1: kakonstantina2000@gmail.com
     phone: 6922222222
     github: p18kavv
 #    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Ελληνική
+        level: Μητρική
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
+      - idiom: Αγγλικά
+        level: Καλό επίπεδο
+        
+      -idiom: Γερμανικά
+       level: Καλό επίπεδο
+       
     interests:
-      - item: Climbing
+      - item: Πεζοπόρια
         link:
 
-      - item: Snowboarding
+      - item: Ζωγραφική
         link:
 
-      - item: Cooking
+      - item: Shopping
         link:
 
 career-profile:
